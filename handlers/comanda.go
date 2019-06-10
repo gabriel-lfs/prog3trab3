@@ -2,8 +2,8 @@ package handlers
 
 import (
     "encoding/json"
+    "github.com/gabriel-lfs/prog3trab3/database"
     "github.com/gorilla/mux"
-    "go-prog/database"
     "net/http"
     "strconv"
 )

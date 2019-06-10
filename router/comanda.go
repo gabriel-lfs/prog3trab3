@@ -1,8 +1,8 @@
 package router
 
 import (
+	"github.com/gabriel-lfs/prog3trab3/handlers"
 	"github.com/gorilla/mux"
-	"go-prog/handlers"
 )
 
 func comandaRouting(router mux.Router) mux.Router {
