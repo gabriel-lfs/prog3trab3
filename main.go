@@ -1,8 +1,8 @@
 package main
 
 import (
-    "go-prog/database"
-    "go-prog/router"
+    "github.com/gabriel-lfs/prog3trab3/database"
+    "github.com/gabriel-lfs/prog3trab3/router"
     "log"
     "net/http"
 )
